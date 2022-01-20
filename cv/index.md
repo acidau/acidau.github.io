@@ -1,6 +1,7 @@
 ---
 title: CV
 permalink: /cv/
+metatags: noindex, follow
 ---
 
  [PDF](/cv.pdf) | [Markdown](/cv.md.txt)

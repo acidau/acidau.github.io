@@ -1,6 +1,7 @@
 ---
 title: 'JPs in NSW'
 permalink: /jp/info/
+metatags: noindex, follow
 ---
 
 _This page updated: 20 December 2021_

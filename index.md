@@ -1,5 +1,6 @@
 ---
 title: ac.id.au
+metatags: noindex, follow
 ---
 
 Hi! I'm AC.

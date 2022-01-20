@@ -1,6 +1,7 @@
 ---
 title: Anime
 permalink: /anime/
+metatags: noindex, follow
 ---
 
 _Last updated: 10 September 2021_

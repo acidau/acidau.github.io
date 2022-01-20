@@ -1,6 +1,7 @@
 ---
 title: 'Ideas to explore in postgrad teaching'
 permalink: /teaching/
+metatags: noindex, follow
 ---
 
 * [self-fulfilling prophecies](http://www.duq.edu/about/centers-and-institutes/center-for-teaching-excellence/teaching-and-learning/pygmalion)
