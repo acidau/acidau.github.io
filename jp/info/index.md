@@ -4,7 +4,7 @@ permalink: /jp/info/
 metatags: noindex, follow
 ---
 
-_This page updated: 20 December 2021_
+_This page updated: 26 January 2022_
 
 ## COVID-19 response
 
@@ -25,17 +25,18 @@ Notably, Section 14I now permits witnessing of NSW documents, even if the **sign
 
 The suggested wording is: _"This document was signed [in counterpart] and witnessed over audio visual link in accordance with section 14G of the Electronic Transactions Act 2000"_[.](https://www.lawsociety.com.au/sites/default/files/2020-10/COVID-19%20Witnessing%20of%20Documents_%20FAQs%207%20October%202020%20CLEAN.pdf)
 
-[The Factsheet for JPs (yet to be updated for 2022) is available on the DCJ website.](https://www.jp.nsw.gov.au/Documents/witnessing-legal-documents-remotely-jp-factsheet.pdf)
+[The Factsheet for JPs (updated for 2022) is available on the DCJ website.](https://www.jp.nsw.gov.au/Documents/witnessing-legal-documents-remotely-jp-factsheet.pdf)
 
 ## jp-prep
-_Tool last updated: 20 March 2020_
+_Tool last updated: 20 March 2020_<br />
+
+The tool has been decommissioned, and a more elegant version is in the works.<br /><br />
 
 This interactive tool gives general advice on **what to prepare when visiting a JP in person**, to save those trips back and forth!<br />
-The tool is is barebones and a more elegant version is planned.<br />
 It also only takes into account face-to-face services and not electronic witnessing.<br />
-As well as using the below tool, please use your best judgment when requesting or providing these services.
+As well as using the tool, please use your best judgment when requesting or providing these services.
 
-<a href="https://ac.id.au/jp-prep" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Access JP Preparation Tool</a>
+<!-- <a href="https://ac.id.au/jp-prep" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Access JP Preparation Tool</a> -->
 
 ### Kitchen Sink
 
