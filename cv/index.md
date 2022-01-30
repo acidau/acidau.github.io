@@ -12,16 +12,16 @@ Andrew Chin
 Contact
 -------
 
-Email: <hello@ac.id.au>
+Email: <hello@ac.id.au>  
 LinkedIn: <https://linkedin.com/in/acidau>
 
 Current roles
 -------------
 
-### [Service NSW / Department of Customer Service](https://www.nsw.gov.au/customer-service)
+### [Service NSW](https://www.nsw.gov.au/customer-service)
 
 **Graduate** (Feb 2022 – current)
-+ Primary stream graduate completing the NSW Government Graduate Program.
++ Primary stream graduate completing the [NSW Government Graduate Program](https://www.psc.nsw.gov.au/workforce-management/recruitment/nsw-government-graduate-program).
 
 
 ### [SMASH Inc](https://smash.org.au)
@@ -72,11 +72,11 @@ Provided non-judgmental support to callers across Australia in crisis and at ris
 
 ### [SMASH Inc](https://smash.org.au)
 
-**Board director** (Sep 2018 – Sep 2019)
-**Chairperson** (Oct 2016 – Oct 2017)
-**Information and enquiries co-ordinator** (Mar 2016 – Sep 2017)
-**Board director** (Oct 2014 – Sep 2015)
-**Ticketing director / co-ordinator** (Jan 2013 – Sep 2014)
+**Board director** (Sep 2018 – Sep 2019)  
+**Chairperson** (Oct 2016 – Oct 2017)  
+**Information and enquiries co-ordinator** (Mar 2016 – Sep 2017)  
+**Board director** (Oct 2014 – Sep 2015)  
+**Ticketing director / co-ordinator** (Jan 2013 – Sep 2014)  
 
 #### Governance
 
@@ -124,7 +124,7 @@ Industrial design consultancy specialising in delivering public art and custom f
 Education
 ---------
 
-### University of New England
+### [University of New England](https://www.une.edu.au/)
 
 **Diploma of Government** (Feb 2022 – current)
 + Completing as part of the NSW Government Graduate Program.
