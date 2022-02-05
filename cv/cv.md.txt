@@ -132,7 +132,7 @@ Education
 
 ### [Lifeline Australia](https://lifeline.org.au)
 
-**CHCSS00113	Crisis Support Skill Set** (Jun 2021)
+**CHCSS00113	Crisis Support Skill Set** (Jun 2021)  
 Units reflect industry requirements for providing support to people in crisis.
 - CHCCCS003	Increase the safety of individuals at risk of suicide
 - CHCCCS019		Recognise and respond to crisis situations
