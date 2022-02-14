@@ -4,9 +4,11 @@ permalink: /jp/info/
 metatags: noindex, follow
 ---
 
-_This page updated: 26 January 2022_
+_This page updated: 15 February 2022_
 
 ## COVID-19 response
+_Last updated: 15 February 2022_
+
 
 **JP services are not classified as essential services. All NSW JPs are volunteers.**<br /> It is not unreasonable for NSW JPs to decline services if they or their family are at risk.
 
@@ -14,7 +16,7 @@ NSW statutory declarations can be witnessed by a wider range [authorised witness
 
 For the latest information on JP services, [check the Department of Communities and Justice website](https://www.jp.nsw.gov.au/).
 
-Most community desks run by NSW Justices Association (in shopping centres and courts) are responding to the current health situation and remain closed. [Local court desks are closed until at least **24 January 2022** by order of the Chief Magistrate.](https://www.localcourt.nsw.gov.au/local-court/arrangements-for-covid-19--coronavirus-/chief-magistrate-s-memorandum.html)
+Most community desks run by NSW Justices Association (in shopping centres and courts) are responding to the current health situation and remain closed. [Local court desks are closed until at least **14 March 2022** by order of the Chief Magistrate.](https://www.localcourt.nsw.gov.au/local-court/arrangements-for-covid-19--coronavirus-/chief-magistrate-s-memorandum.html)
 
 ## Remote witnessing by audio-visual link for NSW documents
 _Last updated: 20 December 2021_
