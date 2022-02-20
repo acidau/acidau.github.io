@@ -56,4 +56,9 @@ As well as using the tool, please use your best judgment when requesting or prov
 * as usual, every page must be signed at the bottom of each page by both deponent and witness (s 8.16(1)(d))
 * Deponent illiterate or vision impaired (s 8.17)
 
-[High Court Roles 2004](https://www.legislation.gov.au/Series/F2004B00343)
+[High Court Rules 2004](https://www.legislation.gov.au/Series/F2004B00343)
+
+#### Land Titles Practice Manual
+
+[from Titles Queensland](https://www.titlesqld.com.au/wp-content/uploads/2021/06/land-title-practice-manual.pdf)  
+NSW JPs should make themselves familiar with Section 61 of the Practice Manual and be aware of their obligations under s 162 of the _Land Titles Act 1994_ (Qld).
