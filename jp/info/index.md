@@ -18,14 +18,18 @@ For the latest information on JP services, [check the Department of Communities 
 
 Most community desks run by NSW Justices Association (in shopping centres and courts) are responding to the current health situation and remain closed. [Local court desks are closed until at least **14 March 2022** by order of the Chief Magistrate.](https://www.localcourt.nsw.gov.au/local-court/arrangements-for-covid-19--coronavirus-/chief-magistrate-s-memorandum.html)
 
-## Remote witnessing by audio-visual link for NSW documents
-_Last updated: 20 December 2021_
+## Remote witnessing by audio-visual link for NSW and Commonwealth documents
+_Last updated: 28 March 2022_
 
-NSW JPs may now witness the **execution of certain documents** by audio visual link, replacing the pilot scheme and provisions made in response to the COVID-19 pandemic. [Effective 29 November 2021](https://www.parliament.nsw.gov.au/bills/Pages/bill-details.aspx?pk=3910), this is a permanent feature of the Electronic Transactions Act. **This does not include _Commonwealth_ affidavits and certified copies, both of which must still be done physically.** Electronic signatures are not to be used - wet signatures only.
+NSW JPs may now witness the **execution of certain documents, including Commonwealth Statutory Declarations and Notice of Intention to Marry (NOIM)** by audio visual link, replacing the pilot scheme and provisions made in response to the COVID-19 pandemic. [Effective 29 November 2021](https://www.parliament.nsw.gov.au/bills/Pages/bill-details.aspx?pk=3910), this is a permanent feature of the Electronic Transactions Act. **This does not include certified copies, which must still be done with documents before the JP.** Electronic signatures are not to be used for NSW documents (wet ink only), but may be used for Commonwealth documents.
 
 Notably, Section 14I now permits witnessing of NSW documents, even if the **signatory** is outside the jurisdiction. Despite the wording of the act, I am yet to receive further advice on whether a NSW JP may act while physically outside the jurisdiction under this part.
 
-The suggested wording is: _"This document was signed [in counterpart] and witnessed over audio visual link in accordance with section 14G of the Electronic Transactions Act 2000"_[.](https://www.lawsociety.com.au/sites/default/files/2020-10/COVID-19%20Witnessing%20of%20Documents_%20FAQs%207%20October%202020%20CLEAN.pdf)
+The suggested wording for NSW documents is: _"This document was signed [in counterpart] and witnessed over audio visual link in accordance with section 14G of the Electronic Transactions Act 2000"_[.](https://www.lawsociety.com.au/sites/default/files/2020-10/COVID-19%20Witnessing%20of%20Documents_%20FAQs%207%20October%202020%20CLEAN.pdf)
+
+The [suggested wording](https://www.ag.gov.au/legal-system/statutory-declarations/how-complete-statutory-declaration) for Commonwealth documents is: _"This statutory declaration was made in accordance with the _[Coronavirus Economic Response Package (Modifications—Statutory Declarations and Notices of Intention to Marry) Determination 2021.](https://www.legislation.gov.au/Details/F2021L01858)_"._
+
+https://www.ag.gov.au/legal-system/publications/commonwealth-statutory-declaration-form
 
 [The Factsheet for JPs (updated for 2022) is available on the DCJ website.](https://www.jp.nsw.gov.au/Documents/witnessing-legal-documents-remotely-jp-factsheet.pdf)
 
