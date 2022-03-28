@@ -35,9 +35,9 @@ Notably, Section 14I now permits witnessing of NSW documents, even if the **sign
 
 ### Commonwealth documents
 
-Temporary changes enabling electronic witnessing are [effective 4 Februrary to 31 December 2022]((https://www.ag.gov.au/legal-system/statutory-declarations/how-complete-statutory-declaration), **This does not include certified copies, which must still be done with documents before the JP.** Electronic signatures may be used in line with Commonwealth advice.
+Temporary changes enabling electronic witnessing are [effective 4 Februrary to 31 December 2022](https://www.ag.gov.au/legal-system/statutory-declarations/how-complete-statutory-declaration), **This does not include certified copies, which must still be done with documents before the JP.** Electronic signatures may be used in line with Commonwealth advice.
 
-The [suggested wording](https://www.ag.gov.au/legal-system/statutory-declarations/how-complete-statutory-declaration) for Commonwealth documents is: _"This statutory declaration was made in accordance with the _[Coronavirus Economic Response Package (Modifications—Statutory Declarations and Notices of Intention to Marry) Determination 2021.](https://www.legislation.gov.au/Details/F2021L01858)_"._
+The [suggested wording](https://www.ag.gov.au/legal-system/statutory-declarations/how-complete-statutory-declaration) for Commonwealth documents is: "_This statutory declaration was made in accordance with the_ [Coronavirus Economic Response Package (Modifications—Statutory Declarations and Notices of Intention to Marry) Determination 2021.](https://www.legislation.gov.au/Details/F2021L01858)".
 
 ## jp-prep
 _Tool last updated: 20 March 2020_<br />
