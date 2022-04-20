@@ -124,9 +124,9 @@ Industrial design consultancy specialising in delivering public art and custom f
 Education
 ---------
 
-### [University of New England](https://www.une.edu.au/)
+### [UNE Partnerships](https://unep.edu.au/)
 
-**Diploma of Government** (Feb 2022 – current)
+**Diploma of Government** (Apr 2022 – current)
 + Completing as part of the NSW Government Graduate Program.
 
 
@@ -155,4 +155,4 @@ Units reflect industry requirements for providing support to people in crisis.
 
 ---
 
-```Last updated 2022-01-31```
+```Last updated 2022-04-20```
