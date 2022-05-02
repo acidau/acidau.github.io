@@ -4,7 +4,7 @@ permalink: /cv/
 metatags: noindex, follow
 ---
 
- [PDF](/cv.pdf) | [Markdown](/cv.md.txt)
+<!-- [PDF](/cv.pdf) | -->[Markdown](/cv.md.txt)
 
 Andrew Chin
 ===========
@@ -32,13 +32,21 @@ Registered not-for-profit cultural association delivering the SMASH! Sydney Mang
 + Providing advice as subject matter expert.
 
 
+### [2RPH - 1224AM / 100.5FM](https://2rph.org.au)
+
+**Reader** (May 2022 – current)
+
+Special purpose radio reading service for people who cannot read independently or choose to listen to the printed word.
+
+
 ### [Department of Communities and Justice](https://jp.nsw.gov.au)
 
 **Justice of the Peace (JP)** (Nov 2016 – current)
 
 Active community volunteer role in certifications and witnessing declarations, affidavits and legal documents for use in New South Wales and Australia.
 
-+ Regular JP with council library, and relief JP at community and local court desks. Member of the NSW Justices Association.
++ Regular relief JP at community and local court desks pre-pandemic. Member of the NSW Justices Association.
+
 
 Past experience
 -----
