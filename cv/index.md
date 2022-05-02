@@ -4,7 +4,7 @@ permalink: /cv/
 metatags: noindex, follow
 ---
 
-<!-- [PDF](/cv.pdf) | -->[Markdown](/cv.md.txt)
+<!-- [PDF](/cv.pdf) | [Markdown](/cv.md.txt)-->
 
 Andrew Chin
 ===========
@@ -163,4 +163,4 @@ Units reflect industry requirements for providing support to people in crisis.
 
 ---
 
-```Last updated 2022-04-20```
+```Last updated 2022-05-03```
