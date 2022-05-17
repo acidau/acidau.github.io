@@ -16,12 +16,12 @@ I started my journey with Japanese animation in late high school through its mus
 **Wholesome chicken soup for the anime soul, in rough order of recommendation.**
 * _Super Cub_: you can go anywhere on a motorcycle, I'm told. Love the art and gradually paced MC development :) ⭐
 * _Yuru Camp._ There's a reason why we also call it 'Comfy Camp'. I am very much looking forward to the second season! ⭐
-* _Ms Kobayashi's Dragon Maid _- worth watching just for the warmth in Season 2's writing. 📕
+* _Ms Kobayashi's Dragon Maid_- worth watching just for the warmth in Season 2's writing. 📕
 * _Hyouka._ High schoolers do mystery! ⭐
 * _Kakushigoto._ Comedic and heartwarming series from the author of _Zetubou-sensei._ ⭐📕
 * _Violet Evergarden_ and its side movie _Eternity and the Auto Machine Doll_. Cried every second episode, honestly. 📕
 *  _Koisuru Asteroid -_ Earth Science, the anime.
-* _Gourmet Girl Graffiti _- wholesome girls cooking for each other for 12 episodes.
+* _Gourmet Girl Graffiti_- wholesome girls cooking for each other for 12 episodes.
 * _The Demon Girl Next Door / Machikado Mazoku._ Wacky, not-quite-magical girl comedy.
 * _Non Non Biyori_ - both seasons, in order. [This clip from S2.](https://www.youtube.com/watch?v=DflP5mBsivA)
 * _Teasing Master Takagi-san_, both seasons. Stay playful.

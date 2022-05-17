@@ -32,7 +32,7 @@ Registered not-for-profit cultural association delivering the SMASH! Sydney Mang
 + Providing advice as subject matter expert.
 
 
-### [2RPH - 1224AM / 100.5FM](https://2rph.org.au)
+### [2RPH - 1224AM / 100.5FM / Digital](https://2rph.org.au)
 
 **Reader** (May 2022 – current)
 
