@@ -31,6 +31,7 @@ I started my journey with Japanese animation in late high school through its mus
 
 
 **I'm sick of high school characters.**
+* _Ya Boy Kongming!_ - Surprisingly well written reverse isekai - with music!
 * _Bartender_ - best watched in order. ⭐
 * _Girls' Last Tour._ Simple, haunting and beautiful, as is its soundtrack.⭐
 * _Shouwa Genroku Rakugo Shinjuu_ - both seasons, in order. Three (four?) generations of family drama. Some background Japanese cultural knowledge may increase enjoyment, but overall self-explanatory. ⭐📕
