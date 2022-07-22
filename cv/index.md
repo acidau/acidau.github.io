@@ -18,18 +18,22 @@ LinkedIn: <https://linkedin.com/in/acidau>
 Current roles
 -------------
 
-### [Service NSW](https://www.nsw.gov.au/customer-service)
+### [NSW Government Graduate Program](https://www.psc.nsw.gov.au/workforce-management/recruitment/nsw-government-graduate-program)
 
-**Graduate** (Feb 2022 – current)
-+ Primary stream graduate completing the [NSW Government Graduate Program](https://www.psc.nsw.gov.au/workforce-management/recruitment/nsw-government-graduate-program).
+#### [Department of Planning and Environment](https://www.environment.nsw.gov.au/)
+**Graduate Policy Officer, Biodiversity & Conservation** (from Aug 2022)
+
+#### [Service NSW](https://service.nsw.gov.au/)
+**Graduate, Service Delivery Frontline Transformation** (Feb – Aug 2022)
++ Conducted research and supported work team in developing priorities for future service delivery strategy. Liaised with internal stakeholders, including product owners and project teams.
 
 
 ### [SMASH Inc](https://smash.org.au)
 Registered not-for-profit cultural association delivering the SMASH! Sydney Manga and Anime Show, an annual Japanese pop culture convention with 22,000+ attendees over 2 days.
 
 **Board director** (Jul 2021 – current)
++ Provided subject matter expertise for guest acquisition, and ongoing strategy and operational advice. Handled escalations on the show floor.
 + Collaborated with board and management in deploying plans to postpone and reschedule the 2021 flagship event, in light of public health orders.
-+ Providing advice as subject matter expert.
 
 
 ### [2RPH - 1224AM / 100.5FM / Digital](https://2rph.org.au)
