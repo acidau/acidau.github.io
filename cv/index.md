@@ -4,8 +4,6 @@ permalink: /cv/
 metatags: noindex, follow
 ---
 
-<!-- [PDF](/cv.pdf) | [Markdown](/cv.md.txt)-->
-
 Andrew Chin
 ===========
 
@@ -26,7 +24,7 @@ Current roles
 
 
 ### [SMASH Inc](https://smash.org.au)
-Registered not-for-profit cultural association delivering the SMASH! Sydney Manga and Anime Show, an annual Japanese pop culture convention with 22,000+ attendees over 2 days.
+Registered not-for-profit cultural association delivering the SMASH! Sydney Manga and Anime Show, an annual Japanese pop culture convention with 26,000+ attendees over 2 days.
 
 **Board director** (Jul 2021 – current)
 + Provided subject matter expertise for guest acquisition, and ongoing strategy and operational advice. Handled escalations on the show floor.
