@@ -18,14 +18,11 @@ LinkedIn: <https://linkedin.com/in/acidau>
 Current roles
 -------------
 
-### [NSW Government Graduate Program](https://www.psc.nsw.gov.au/workforce-management/recruitment/nsw-government-graduate-program)
+### [Service NSW](https://service.nsw.gov.au/)
 
-#### [Department of Planning and Environment](https://www.environment.nsw.gov.au/)
-**Graduate Policy Officer, Biodiversity & Conservation** (from Aug 2022)
-
-#### [Service NSW](https://service.nsw.gov.au/)
 **Graduate, Service Delivery Frontline Transformation** (Feb – Aug 2022)
 + Conducted research and supported work team in developing priorities for future service delivery strategy. Liaised with internal stakeholders, including product owners and project teams.
++ Participated in Rotation 1 of the [NSW Government Graduate Program](https://www.psc.nsw.gov.au/workforce-management/recruitment/nsw-government-graduate-program).
 
 
 ### [SMASH Inc](https://smash.org.au)
@@ -136,12 +133,6 @@ Industrial design consultancy specialising in delivering public art and custom f
 Education
 ---------
 
-### [UNE Partnerships](https://unep.edu.au/)
-
-**Diploma of Government** (Apr 2022 – current)
-+ Completing as part of the NSW Government Graduate Program.
-
-
 ### [University of Sydney](https://sydney.edu.au)
 
 **Bachelor of Science** (Aug 2021)
@@ -167,4 +158,4 @@ Units reflect industry requirements for providing support to people in crisis.
 
 ---
 
-```Last updated 2022-05-03```
+```Last updated 2022-07-29```
