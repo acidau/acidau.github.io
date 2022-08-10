@@ -18,8 +18,7 @@ Current roles
 
 ### [Service NSW](https://service.nsw.gov.au/)
 
-**Implementation Analyst** (Aug 2022 – current)
-
+**Implementation Analyst** (Aug 2022 – current)<br />
 **Graduate, Service Transformation** (Feb – Aug 2022)
 + Conducted research and supported work team in developing priorities for future service delivery strategy. Liaised with internal stakeholders, including product owners and project teams.
 + Participated in Rotation 1 of the [NSW Government Graduate Program](https://www.psc.nsw.gov.au/workforce-management/recruitment/nsw-government-graduate-program).
