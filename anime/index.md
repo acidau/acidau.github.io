@@ -4,7 +4,7 @@ permalink: /anime/
 metatags: noindex, follow
 ---
 
-_Last updated: 10 September 2021_
+_Last updated: 17 August 2022_
 
 I started my journey with Japanese animation in late high school through its music. I've been involved with the Sydney anime scene ever since, through organising meetups, creative output, and helping run conventions.
 
@@ -29,6 +29,9 @@ I started my journey with Japanese animation in late high school through its mus
 *  _Interviews with Monster Girls._ Teachers going out of their way to help their quirky students fit in.
 *  _Asagao to Kase-san_. Fluffy yuri romance OVA with likeable main characters.
 
+**I want decent series from recent seasons.**
+* _Call of the Night_ - apt title, good character banter. Summer 2022.
+* _Spy x Family_ - just look it up and reviews speak for themselves. Spring 2022.
 
 **I'm sick of high school characters.**
 * _Ya Boy Kongming!_ - Surprisingly well written reverse isekai - with music!
