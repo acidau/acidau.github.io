@@ -53,6 +53,7 @@ I started my journey with Japanese animation in late high school through its mus
 
 
 **I need something light.**
+* _Humanity Has Declined / Jinrui wa Suitai Shimashita_. Satire, but with pastel-coloured fairies. 
 * _Kaguya-sama: Love Is War._ Over-the-top romantic comedy.
 *  _Monthly Girls' Nozaki-kun._ Also an over-the-top romantic comedy.
 * _Nichijou_ - any episode order will do. ⭐
