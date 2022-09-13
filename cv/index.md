@@ -38,6 +38,7 @@ Registered not-for-profit cultural association delivering the SMASH! Sydney Mang
 **Reader** (May 2022 – current)
 
 Special purpose radio reading service for people who cannot read independently or choose to listen to the printed word.
+Regular on-air reader for weekend newspapers. Producing regular fortnightly program.
 
 
 ### [Department of Communities and Justice](https://jp.nsw.gov.au)
@@ -158,4 +159,4 @@ Units reflect industry requirements for providing support to people in crisis.
 
 ---
 
-```Last updated 2022-08-18```
+```Last updated 2022-09-04```
