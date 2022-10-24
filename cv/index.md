@@ -24,6 +24,12 @@ Current roles
 + Graduate expert-generalist, leading and supporting work and project teams though research, synthesis, and stakeholder engagement.
 + Participated in Rotation 1 of the [NSW Government Graduate Program](https://www.psc.nsw.gov.au/workforce-management/recruitment/nsw-government-graduate-program).
 
+### [2RPH - 1224AM / 100.5FM / Digital](https://2rph.org.au)
+
+**Reader / announcer** (May 2022 – current)
+
+Specialist radio reading service for people who cannot read or handle printed material, or choose to listen to the written word.
+Preparing and reading newspaper articles live on air for Sydney and regional weekend papers. Producing and recording readings for fortnightly program.
 
 ### [SMASH Inc](https://smash.org.au)
 Registered not-for-profit cultural association delivering the SMASH! Sydney Manga and Anime Show, an annual Japanese pop culture convention with 26,000+ attendees over 2 days.
@@ -31,15 +37,6 @@ Registered not-for-profit cultural association delivering the SMASH! Sydney Mang
 **Board director** (Jul 2021 – current)
 + Provided subject matter expertise for guest acquisition, and ongoing strategy and operational advice. Handled escalations on the show floor.
 + Collaborated with board and management in deploying plans to postpone and reschedule the 2021 flagship event, in light of public health orders.
-
-
-### [2RPH - 1224AM / 100.5FM / Digital](https://2rph.org.au)
-
-**Reader** (May 2022 – current)
-
-Special purpose radio reading service for people who cannot read independently or choose to listen to the printed word.
-Regular on-air reader for weekend newspapers. Producing regular fortnightly program.
-
 
 ### [Department of Communities and Justice](https://jp.nsw.gov.au)
 
