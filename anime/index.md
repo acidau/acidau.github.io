@@ -4,8 +4,6 @@ permalink: /anime/
 metatags: noindex, follow
 ---
 
-_Last updated: 25 October 2022_
-
 I started my journey with Japanese animation in late high school through its music. I've been involved with the Sydney anime scene ever since, through organising meetups, creative output, and helping run conventions.
 
 # the list
@@ -30,7 +28,8 @@ I started my journey with Japanese animation in late high school through its mus
 *  _Asagao to Kase-san_. Fluffy yuri romance OVA with likeable main characters.
 
 **I want decent series from recent seasons.**
-* _Lycoris Recoil_ - Summer 2022.
+* _Bocchi the Rock!_ - Fall 2022. Gets really creative with the animation and an overall enjoyable watch.
+* _Lycoris Recoil_ - Summer 2022. Great buddy dynamic. [_Sakana!_](https://www.youtube.com/watch?v=I5198X8XoY8)
 * _Spy x Family_ - Spring/Fall 2022.
 * _Call of the Night_ - Summer 2022.
 
@@ -72,7 +71,7 @@ I started my journey with Japanese animation in late high school through its mus
 
 
 **Thoughtful 2010s remakes of SF heroes?**
-* _Gatchaman Crowds Insight _- if you can get past the first season of _Crowds._
+* _Gatchaman Crowds Insight _ - if you can get past the first season of _Crowds._
 * _SSSS.GRIDMAN._ Follow the series and guess who's the main character.
 
 
@@ -97,4 +96,4 @@ Cover artists of interest include:
 * Handled website and sponsorships years back at [SUAnime](http://www.suanime.org/), Sydney Uni's anime society.
 * Transcriptions/keys for two different anime music bands/projects.
  
-
+```Last updated: 27 November 2022```
