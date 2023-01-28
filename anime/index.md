@@ -71,7 +71,7 @@ I started my journey with Japanese animation in late high school through its mus
 
 
 **Thoughtful 2010s remakes of SF heroes?**
-* _Gatchaman Crowds Insight _ - if you can get past the first season of _Crowds._
+* _Gatchaman Crowds Insight_ - if you can get past the first season of _Crowds._
 * _SSSS.GRIDMAN._ Follow the series and guess who's the main character.
 
 
@@ -92,8 +92,8 @@ Cover artists of interest include:
 
 # some things i gone and done
 
-* [6+ years' service](/cv/) as a senior volunteer at SMASH! Sydney Manga and Anime Show.
+* [8+ years' service](/cv/) as a senior volunteer at SMASH! Sydney Manga and Anime Show.
 * Handled website and sponsorships years back at [SUAnime](http://www.suanime.org/), Sydney Uni's anime society.
 * Transcriptions/keys for two different anime music bands/projects.
  
-```Last updated: 27 November 2022```
+```Last updated: 28 January 2023```
