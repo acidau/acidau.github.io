@@ -19,17 +19,23 @@ Current roles
 ### [Service NSW](https://service.nsw.gov.au/)
 
 **Implementation Analyst** (Aug 2022 – current)<br />
+
++ Conducting research, designing solutions, and supporting work team in service delivery frontline transformation.
++ Project work and liaising with internal stakeholders, including product owners, project teams, managers and frontline team members.
+
 **Graduate, Service Transformation** (Feb – Aug 2022)
-+ Helping shape government service delivery for 8 million+ citizen/customers of NSW.
-+ Graduate expert-generalist, leading and supporting work and project teams though research, synthesis, and stakeholder engagement.
-+ Participated in Rotation 1 of the [NSW Government Graduate Program](https://www.psc.nsw.gov.au/workforce-management/recruitment/nsw-government-graduate-program).
+
++ Participated in Rotation 1 of the [NSW Government Graduate Program](https://www.psc.nsw.gov.au/workforce-management/recruitment/nsw-government-graduate-program), Primary Stream.
++ Supported activities of business unit in establishing strategic outcomes for transforming frontline service delivery.
++ Explored potential technologies and best practices and shared findings and informed recommendations with team.
++ Designed presentations and engagement and training activities, particularly for a statewide leadership conference.
 
 ### [2RPH - 1224AM / 100.5FM / Digital](https://2rph.org.au)
 
-**Reader / announcer** (May 2022 – current)
+**Announcer / Reader** (May 2022 – current)
 
-Specialist radio reading service for people who cannot read or handle printed material, or choose to listen to the written word.
-Preparing and reading newspaper articles live on air for Sydney and regional weekend papers. Producing and recording readings for fortnightly program.
++ Regular announcer for live readings of regional newspaper, delivering a 2 hour program while ensuring compliance with national radio reading service protocol. Operating sound desk and timing segments and music, coordinating with a second reader, and preparing and selecting articles for reading on air.
++ Previously produced and recorded magazine articles for a fortnightly program.
 
 ### [SMASH Inc](https://smash.org.au)
 Registered not-for-profit cultural association delivering the SMASH! Sydney Manga and Anime Show, an annual Japanese pop culture convention with 26,000+ attendees over 2 days.
@@ -69,11 +75,11 @@ First point of contact for students, parents and teachers at established tuition
 
 ### [Lifeline Macarthur and Western Sydney](https://www.lifelinemacarthur.org.au/)
 
-**Accredited Telephone Crisis Supporter** (Jun 2020 – Dec 2021)
+**Telephone Crisis Supporter** (Jun 2020 – Dec 2021)
 
 Provided non-judgmental support to callers across Australia in crisis and at risk of suicide.
 
-+ Completed professional development in client-centred crisis support and applying Lifeline’s care framework.
++ Completed accreditation and professional development in client-centred crisis support and applying Lifeline’s care framework.
 + Formerly part of the overnight crisis support team. Selection for this team is for crisis supporters highly competent in the skillset, who can apply flexibility in assisting callers in a wide range of crisis scenarios.
 
 
@@ -152,8 +158,8 @@ Units reflect industry requirements for providing support to people in crisis.
 
 
 ### [James Ruse Agricultural High School](https://jamesruse-h.schools.nsw.gov.au)
-**Higher School Certificate (NSW)** (2011)
+**Higher School Certificate (NSW)**
 
 ---
 
-```Last updated: 27 November 2022```
+```Last updated: 28 March 2023```

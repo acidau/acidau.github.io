@@ -18,10 +18,11 @@ I started my journey with Japanese animation in late high school through its mus
 * _Hyouka._ High schoolers do mystery! ⭐
 * _Kakushigoto._ Comedic and heartwarming series from the author of _Zetubou-sensei._ ⭐📕
 * _Violet Evergarden_ and its side movie _Eternity and the Auto Machine Doll_. Cried every second episode, honestly. 📕
+* _Non Non Biyori_ - both seasons, in order. [This clip from S2.](https://www.youtube.com/watch?v=DflP5mBsivA)
+* _Campfire Cooking in Another World with my Absurd Skill_. The joys of cooking, trading, and online shopping in an isekai!
 *  _Koisuru Asteroid -_ Earth Science, the anime.
 * _Gourmet Girl Graffiti_- wholesome girls cooking for each other for 12 episodes.
 * _The Demon Girl Next Door / Machikado Mazoku._ Wacky, not-quite-magical girl comedy.
-* _Non Non Biyori_ - both seasons, in order. [This clip from S2.](https://www.youtube.com/watch?v=DflP5mBsivA)
 * _Teasing Master Takagi-san_, both seasons. Stay playful.
 * _Tsukigakirei._ Nice and wholesome vanilla romance, wrapped up in one cour. You need a break from more serious drama.
 *  _Interviews with Monster Girls._ Teachers going out of their way to help their quirky students fit in.
@@ -96,4 +97,4 @@ Cover artists of interest include:
 * Handled website and sponsorships years back at [SUAnime](http://www.suanime.org/), Sydney Uni's anime society.
 * Transcriptions/keys for two different anime music bands/projects.
  
-```Last updated: 28 January 2023```
+```Last updated: 24 March 2023```
