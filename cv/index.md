@@ -30,7 +30,7 @@ Current roles
 + Explored potential technologies and best practices and shared findings and informed recommendations with team.
 + Designed presentations and engagement and training activities, particularly for a statewide leadership conference.
 
-### [2RPH - 1224AM / 100.5FM / Digital](https://2rph.org.au)
+### [Radio 2RPH](https://2rph.org.au)
 
 **Announcer / Reader** (May 2022 – current)
 
