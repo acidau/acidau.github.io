@@ -37,13 +37,6 @@ Current roles
 + Regular announcer for live readings of regional newspaper, delivering a 2 hour program while ensuring compliance with national radio reading service protocol. Operating sound desk and timing segments and music, coordinating with a second reader, and preparing and selecting articles for reading on air.
 + Previously produced and recorded magazine articles for a fortnightly program.
 
-### [SMASH Inc](https://smash.org.au)
-Registered not-for-profit cultural association delivering the SMASH! Sydney Manga and Anime Show, an annual Japanese pop culture convention with 26,000+ attendees over 2 days.
-
-**Board director** (Jul 2021 – current)
-+ Provided subject matter expertise for guest acquisition, and ongoing strategy and operational advice. Handled escalations on the show floor.
-+ Collaborated with board and management in deploying plans to postpone and reschedule the 2021 flagship event, in light of public health orders.
-
 ### [Department of Communities and Justice](https://jp.nsw.gov.au)
 
 **Justice of the Peace (JP)** (Nov 2016 – current)
@@ -84,7 +77,9 @@ Provided non-judgmental support to callers across Australia in crisis and at ris
 
 
 ### [SMASH Inc](https://smash.org.au)
+Registered not-for-profit delivering the SMASH! Sydney Manga and Anime Show, an annual Japanese pop culture convention with 26,000+ attendees over 2 days.
 
+**Chairperson / Board director** (Jul 2021 – Apr 2023)
 **Board director** (Sep 2018 – Sep 2019)  
 **Chairperson** (Oct 2016 – Oct 2017)  
 **Information and enquiries co-ordinator** (Mar 2016 – Sep 2017)  
@@ -114,6 +109,8 @@ Provided non-judgmental support to callers across Australia in crisis and at ris
 
 #### Management
 
++ Provided guidance to volunteer director and staff as co-head of People & Culture Committee in 2022-23.
++ Provided subject matter expertise for guest acquisition, and ongoing strategy and operational advice. Handled escalations on the show floor.
 + Established new Ticketing department with 9 year-round staff into Customer Service, Systems / Infrastructure and Entry Experience divisions.
 + Designed and delivered ticketing, queuing, access control and reporting solution for expansion into a 2-day convention at Rosehill Gardens in August 2014, with over 13,000 attendees. Worked closely with in-house IT and Marketing departments in delivery.
 + Trained, rostered and supervised senior staff and teams of up to 75 on-the-day volunteers in ticketing, ushering, and staffing information desks.
@@ -162,4 +159,4 @@ Units reflect industry requirements for providing support to people in crisis.
 
 ---
 
-```Last updated: 28 March 2023```
+```Last updated: 29 March 2023```
