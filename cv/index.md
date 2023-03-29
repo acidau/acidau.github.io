@@ -79,7 +79,7 @@ Provided non-judgmental support to callers across Australia in crisis and at ris
 ### [SMASH Inc](https://smash.org.au)
 Registered not-for-profit delivering the SMASH! Sydney Manga and Anime Show, an annual Japanese pop culture convention with 26,000+ attendees over 2 days.
 
-**Chairperson / Board director** (Jul 2021 – Apr 2023)
+**Chairperson / Board director** (Jul 2021 – Apr 2023)  
 **Board director** (Sep 2018 – Sep 2019)  
 **Chairperson** (Oct 2016 – Oct 2017)  
 **Information and enquiries co-ordinator** (Mar 2016 – Sep 2017)  
