@@ -18,17 +18,20 @@ Current roles
 
 ### [Service NSW](https://service.nsw.gov.au/)
 
-**Implementation Analyst** (Aug 2022 – current)<br />
+**Business Process Analyst** (May 2023 - current)<br />
 
-+ Conducting research, designing solutions, and supporting work team in service delivery frontline transformation.
-+ Project work and liaising with internal stakeholders, including product owners, project teams, managers and frontline team members.
++ Business Analyst commencing with the Customer Engagement Integration Program.
 
-**Graduate, Service Transformation** (Feb – Aug 2022)
-
-+ Participated in Rotation 1 of the [NSW Government Graduate Program](https://www.psc.nsw.gov.au/workforce-management/recruitment/nsw-government-graduate-program), Primary Stream.
-+ Supported activities of business unit in establishing strategic outcomes for transforming frontline service delivery.
-+ Explored potential technologies and best practices and shared findings and informed recommendations with team.
+**Implementation Analyst** (Aug 2022 – May 2023)
+**Graduate** (Feb – Aug 2022)<br />
++ Contributed to establishment of new business unit: Service Delivery Frontline Transformation.
++ Actively contributed to co-designing strategic outcomes, including designing and facilitating workshops to senior leadership team.
++ Proposed initial design for new customer feedback solution at Service Centres.
 + Designed presentations and engagement and training activities, particularly for a statewide leadership conference.
++ Explored potential technologies and best practices and shared findings and informed recommendations with team.
++ Stream lead and discovery work as part of project delivery team.
++ Participated in Rotation 1 of the [NSW Government Graduate Program](https://www.psc.nsw.gov.au/workforce-management/recruitment/nsw-government-graduate-program), Primary Stream.
+
 
 ### [Radio 2RPH](https://2rph.org.au)
 
@@ -41,9 +44,11 @@ Current roles
 
 **Justice of the Peace (JP)** (Nov 2016 – current)
 
-Active community volunteer role in certifications and witnessing declarations, affidavits and legal documents for use in New South Wales and Australia.
+Active community role in certifications and witnessing declarations, affidavits and legal documents for use in New South Wales and Australia.
 
++ Court Appointed Questioner, ensuring Domestic and Family Violence complainants are not directly cross-examined by self-represented defendants.
 + Regular relief JP at community and local court desks pre-pandemic. Member of the NSW Justices Association.
+
 
 
 Past experience
@@ -159,4 +164,4 @@ Units reflect industry requirements for providing support to people in crisis.
 
 ---
 
-```Last updated: 29 March 2023```
+```Last updated: 26 May 2023```
