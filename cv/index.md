@@ -22,7 +22,7 @@ Current roles
 
 + Business Analyst commencing with the Customer Engagement Integration Program.
 
-**Implementation Analyst** (Aug 2022 – May 2023)
+**Implementation Analyst** (Aug 2022 – May 2023)<br />
 **Graduate** (Feb – Aug 2022)<br />
 + Contributed to establishment of new business unit: Service Delivery Frontline Transformation.
 + Actively contributed to co-designing strategic outcomes, including designing and facilitating workshops to senior leadership team.
@@ -40,15 +40,14 @@ Current roles
 + Regular announcer for live readings of regional newspaper, delivering a 2 hour program while ensuring compliance with national radio reading service protocol. Operating sound desk and timing segments and music, coordinating with a second reader, and preparing and selecting articles for reading on air.
 + Previously produced and recorded magazine articles for a fortnightly program.
 
-### [Department of Communities and Justice](https://jp.nsw.gov.au)
+### [Department of Communities and Justice](https://dcj.nsw.gov.au/justice/justice-of-the-peace.html)
 
 **Justice of the Peace (JP)** (Nov 2016 – current)
 
 Active community role in certifications and witnessing declarations, affidavits and legal documents for use in New South Wales and Australia.
 
-+ Court Appointed Questioner, ensuring Domestic and Family Violence complainants are not directly cross-examined by self-represented defendants.
 + Regular relief JP at community and local court desks pre-pandemic. Member of the NSW Justices Association.
-
++ Court Appointed Questioner, ensuring Domestic and Family Violence complainants are not directly cross-examined by self-represented defendants.
 
 
 Past experience
