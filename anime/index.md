@@ -29,6 +29,7 @@ I started my journey with Japanese animation in late high school through its mus
 *  _Asagao to Kase-san_. Fluffy yuri romance OVA with likeable main characters.
 
 **I want decent series from recent seasons.**
+* _Insomniacs After School_ - Spring 2023.
 * _Bocchi the Rock!_ - Fall 2022. Gets really creative with the animation and an overall enjoyable watch.
 * _Lycoris Recoil_ - Summer 2022. Great buddy dynamic. [_Sakana!_](https://www.youtube.com/watch?v=I5198X8XoY8)
 * _Spy x Family_ - Spring/Fall 2022.
