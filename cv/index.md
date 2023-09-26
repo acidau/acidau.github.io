@@ -20,7 +20,7 @@ Current roles
 
 **Business Process Analyst** (May 2023 - current)<br />
 
-+ Business Analyst commencing with the Customer Engagement Integration Program.
++ Business Analyst with the Customer Engagement Integration Program.
 
 **Implementation Analyst** (Aug 2022 – May 2023)<br />
 **Graduate** (Feb – Aug 2022)<br />
@@ -123,9 +123,9 @@ Registered not-for-profit delivering the SMASH! Sydney Manga and Anime Show, an 
 + Responded promptly to general and ticketing enquiries by email throughout the year.
 
 
-### [AG Public Art](https://agpublicart.com.au)
+### [Architectural Graphics | AG Public Art](https://agpublicart.com.au)
 
-Industrial design consultancy specialising in delivering public art and custom fabrication.
+Industrial design consultancy specialising in delivering public art, wayfinding, and custom fabrication.
 
 **General assistant** (Nov 2011 – Feb 2017)
 
@@ -163,4 +163,4 @@ Units reflect industry requirements for providing support to people in crisis.
 
 ---
 
-```Last updated: 26 May 2023```
+```Last updated: 27 September 2023```
