@@ -18,15 +18,19 @@ Current roles
 
 ### [Service NSW](https://service.nsw.gov.au/)
 
+Making it easier to deal with government for 8 million + customers across NSW.
+
 **Business Process Analyst** (May 2023 - current)<br />
 
-+ Business Analyst with the Customer Engagement Integration Program.
++ Business Analyst with the Customer Engagement Integration Program, gaining experience across the project lifecycle.
++ Designed contact centre integration for voice and email channels for partner agency, including novel technical solutions that fulfilled strict business requirements.
++ Mapped complex business processes across various projects.
 
 **Implementation Analyst** (Aug 2022 – May 2023)<br />
 **Graduate** (Feb – Aug 2022)<br />
 + Contributed to establishment of new business unit: Service Delivery Frontline Transformation.
 + Actively contributed to co-designing strategic outcomes, including designing and facilitating workshops to senior leadership team.
-+ Proposed initial design for new customer feedback solution at Service Centres.
++ Proposed initial design for novel customer feedback solution at Service Centres.
 + Designed presentations and engagement and training activities, particularly for a statewide leadership conference.
 + Explored potential technologies and best practices and shared findings and informed recommendations with team.
 + Stream lead and discovery work as part of project delivery team.
@@ -34,6 +38,8 @@ Current roles
 
 
 ### [Radio 2RPH](https://2rph.org.au)
+
+Well read radio.
 
 **Announcer / Reader** (May 2022 – current)
 
@@ -46,8 +52,7 @@ Current roles
 
 Active community role in certifications and witnessing declarations, affidavits and legal documents for use in New South Wales and Australia.
 
-+ Regular relief JP at community and local court desks pre-pandemic. Member of the NSW Justices Association.
-+ Court Appointed Questioner, ensuring Domestic and Family Violence complainants are not directly cross-examined by self-represented defendants.
++ Former relief JP at community and local court desks.
 
 
 Past experience
@@ -57,17 +62,18 @@ Past experience
 
 **Customer Service Representative** (Jan 2018 – Jan 2022)
 
-First point of contact for students, parents and teachers at established tuition college with over 6000 student enrolments across 5 campuses.
+First point of contact at established tuition college with over 8000 student enrolments across 6 campuses.
 
-+ Handled enquiries across the enrolment lifecycle by phone, email, live online chat, and in person. This included general academic advice, enrolments and timetabling, troubleshooting online systems, booking consultations, and accurately processing payments.
++ Evaluated options and proposed solution for migration to a new fit-for-purpose Learning Management System (LMS), currently used by over 5000 students and their families for online and blended learning.
++ Conducted User Acceptance Testing (UAT) for college systems.
++ Assisted with video production editing and workflow for new Matrix+ online learning platform, working with tight deadlines and a high attention to detail.
+
++ Handled enquiries across the enrolment lifecycle by phone, email, live online chat, and in person. This included general academic advice, enrolments and timetabling, Tier 2 support of college systems, booking consultations, and accurately processing payments.
 + Day-to-day management of reception, classrooms and office space.
 + Maintained accurate interaction records, and prepared complex cases for escalation with proposed solutions.
-+ Assisted with order fulfilment and shipment of student learning resources.
++ Fulfilled orders and shipped student learning resources.
 
-#### Projects and higher duties
 
-+ Compared and evaluated solutions for a new learning management system (LMS), accounting for user needs, leading to one being selected for deployment in Q4 2021.
-+ Assisted with video production editing and workflow for new Matrix+ On Demand service, working with tight deadlines and a high attention to detail.
 
 
 ### [Lifeline Macarthur and Western Sydney](https://www.lifelinemacarthur.org.au/)
