@@ -16,25 +16,17 @@ LinkedIn: <https://linkedin.com/in/acidau>
 Current roles
 -------------
 
-### [Service NSW](https://service.nsw.gov.au/)
+### [Matrix Education](https://matrix.edu.au)
 
-Making it easier to deal with government for 8 million + customers across NSW.
+**Service Area Manager** (Feb 2024 - current)
+**Customer Service Representative** (Jan 2018 – Feb 2024)
 
-**Business Process Analyst** (May 2023 - current)<br />
+Leading teams and designing solutions for customer service excellence.
+Part of an established tuition company with over 20,000 student enrolments across 6 campuses.
 
-+ Business Analyst with the Customer Engagement Integration Program, gaining experience across the project lifecycle.
-+ Designed contact centre integration for voice and email channels for partner agency, including novel technical solutions that fulfilled strict business requirements.
-+ Mapped complex business processes across various projects.
-
-**Implementation Analyst** (Aug 2022 – May 2023)<br />
-**Graduate** (Feb – Aug 2022)<br />
-+ Contributed to establishment of new business unit: Service Delivery Frontline Transformation.
-+ Actively contributed to co-designing strategic outcomes, including designing and facilitating workshops to senior leadership team.
-+ Proposed initial design for novel customer feedback solution at Service Centres.
-+ Designed presentations and engagement and training activities, particularly for a statewide leadership conference.
-+ Explored potential technologies and best practices and shared findings and informed recommendations with team.
-+ Stream lead and discovery work as part of project delivery team.
-+ Participated in Rotation 1 of the [NSW Government Graduate Program](https://www.psc.nsw.gov.au/workforce-management/recruitment/nsw-government-graduate-program), Primary Stream.
++ Evaluated options and proposed solution for migration to a new fit-for-purpose Learning Management System (LMS), currently used by over 5000 students and their families for online and blended learning.
++ Conducted User Acceptance Testing (UAT) for college systems.
++ Assisted with video production editing and workflow for new Matrix+ online learning platform, working with tight deadlines and a high attention to detail.
 
 
 ### [Radio 2RPH](https://2rph.org.au)
@@ -58,22 +50,25 @@ Active community role in certifications and witnessing declarations, affidavits 
 Past experience
 -----
 
-### [Matrix Education](https://matrix.edu.au)
+### [Service NSW](https://service.nsw.gov.au/)
 
-**Customer Service Representative** (Jan 2018 – Jan 2022)
+Making it easier to deal with government for 8 million + customers across NSW.
 
-First point of contact at established tuition college with over 8000 student enrolments across 6 campuses.
+**Business Process Analyst** (May 2023 - Feb 2024)<br />
 
-+ Evaluated options and proposed solution for migration to a new fit-for-purpose Learning Management System (LMS), currently used by over 5000 students and their families for online and blended learning.
-+ Conducted User Acceptance Testing (UAT) for college systems.
-+ Assisted with video production editing and workflow for new Matrix+ online learning platform, working with tight deadlines and a high attention to detail.
++ Business Analyst with the Customer Engagement Integration Program, gaining experience across the project lifecycle.
++ Designed contact centres for voice and email channels for partner agency, including novel technical solutions that fulfilled strict business requirements.
++ Mapped complex business processes across various projects.
 
-+ Handled enquiries across the enrolment lifecycle by phone, email, live online chat, and in person. This included general academic advice, enrolments and timetabling, Tier 2 support of college systems, booking consultations, and accurately processing payments.
-+ Day-to-day management of reception, classrooms and office space.
-+ Maintained accurate interaction records, and prepared complex cases for escalation with proposed solutions.
-+ Fulfilled orders and shipped student learning resources.
-
-
+**Implementation Analyst** (Aug 2022 – May 2023)<br />
+**Graduate** (Feb – Aug 2022)<br />
++ Contributed to establishment of new business unit: Service Delivery Frontline Transformation.
++ Actively contributed to co-designing strategic outcomes, including designing and facilitating workshops to senior leadership team.
++ Proposed initial design for novel customer feedback solution at Service Centres.
++ Designed presentations and engagement and training activities, particularly for a statewide leadership conference.
++ Explored potential technologies and best practices and shared findings and informed recommendations with team.
++ Stream lead and discovery work as part of project delivery team.
++ Participated in Rotation 1 of the [NSW Government Graduate Program](https://www.psc.nsw.gov.au/workforce-management/recruitment/nsw-government-graduate-program), Primary Stream.
 
 
 ### [Lifeline Macarthur and Western Sydney](https://www.lifelinemacarthur.org.au/)

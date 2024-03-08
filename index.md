@@ -5,7 +5,7 @@ metatags: noindex, follow
 
 Hi! I'm AC.
 
-I'm an early career professional with varied experience in [government, customer service, and NFP leadership.](/cv/)
+I'm a customer service specialist and business analyst, with experience across [government, private, and not-for-profits.](/cv/)
 
 Contact
 -------
