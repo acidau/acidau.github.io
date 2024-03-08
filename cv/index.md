@@ -19,6 +19,7 @@ Current roles
 ### [Matrix Education](https://matrix.edu.au)
 
 **Service Area Manager** (Feb 2024 - current)
+
 **Customer Service Representative** (Jan 2018 – Feb 2024)
 
 Leading teams and designing solutions for customer service excellence.
