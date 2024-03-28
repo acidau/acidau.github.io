@@ -18,12 +18,13 @@ Current roles
 
 ### [Matrix Education](https://matrix.edu.au)
 
-**Service Area Manager** (Feb 2024 - current)
+Sydney's leading tutoring college for Year 3-12, with over 8,000 students across 7 campuses.
 
+**Service Area Manager** (Feb 2024 - current)
 **Customer Service Representative** (Jan 2018 – Feb 2024)
 
-Leading teams and designing solutions for customer service excellence.
-Part of an established tuition company with over 20,000 student enrolments across 6 campuses.
+Leading teams and designing solutions for customer service excellence at our Western Sydney campuses.
+Improving and refining business processes, managing campus operations, and resolving complex customer cases with empathy and competence.
 
 + Evaluated options and proposed solution for migration to a new fit-for-purpose Learning Management System (LMS), currently used by over 5000 students and their families for online and blended learning.
 + Conducted User Acceptance Testing (UAT) for college systems.
