@@ -20,8 +20,7 @@ Current roles
 
 Sydney's leading tutoring college for Year 3-12, with over 8,000 students across 7 campuses.
 
-**Service Area Manager** (Feb 2024 - current)
-
+**Service Area Manager** (Feb 2024 - current)<br />
 **Customer Service Representative** (Jan 2018 – Feb 2024)
 
 Leading teams and designing solutions for customer service excellence at our Western Sydney campuses.
@@ -57,7 +56,7 @@ Past experience
 
 Making it easier to deal with government for 8 million + customers across NSW.
 
-**Business Process Analyst** (May 2023 - Feb 2024)<br />
+**Business Process Analyst** (May 2023 - Feb 2024)
 
 + Business Analyst with the Customer Engagement Integration Program, gaining experience across the project lifecycle.
 + Designed contact centres for voice and email channels for partner agency, including novel technical solutions that fulfilled strict business requirements.
