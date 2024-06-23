@@ -4,6 +4,8 @@ permalink: /anime/
 metatags: noindex, follow
 ---
 
+```Last updated: 16 May 2024```
+
 I started my journey with Japanese animation in late high school through its music. I've been involved with the Sydney anime scene ever since, through organising meetups, creative output, and helping run conventions.
 
 # the list
@@ -13,9 +15,10 @@ I started my journey with Japanese animation in late high school through its mus
 
 **Wholesome chicken soup for the anime soul, in rough order of recommendation.**
 * _Super Cub_: you can go anywhere on a motorcycle, I'm told. Love the art and gradually paced MC development :) ⭐
-* _Yuru Camp._ There's a reason why we also call it 'Comfy Camp'. I am very much looking forward to the second season! ⭐
-* _Ms Kobayashi's Dragon Maid_- worth watching just for the warmth in Season 2's writing. 📕
+* _Yuru Camp._ There's a reason why we also call it 'Comfy Camp'. All three seasons and the movie are a treat! ⭐
 * _Hyouka._ High schoolers do mystery! ⭐
+* _Aobuta series (Rascal Does Not Dream series)._ Nice character dynamics in a reasonably believable sci-fi. You'll get invested all the way through the high school arcs. ⭐
+* _Hibike! Euphonium_, all series and movies - because bands!
 * _Kakushigoto._ Comedic and heartwarming series from the author of _Zetubou-sensei._ ⭐📕
 * _Violet Evergarden_ and its side movie _Eternity and the Auto Machine Doll_. Cried every second episode, honestly. 📕
 * _Non Non Biyori_ - both seasons, in order. [This clip from S2.](https://www.youtube.com/watch?v=DflP5mBsivA)
@@ -25,10 +28,15 @@ I started my journey with Japanese animation in late high school through its mus
 * _The Demon Girl Next Door / Machikado Mazoku._ Wacky, not-quite-magical girl comedy.
 * _Teasing Master Takagi-san_, both seasons. Stay playful.
 * _Tsukigakirei._ Nice and wholesome vanilla romance, wrapped up in one cour. You need a break from more serious drama.
+* _Ms Kobayashi's Dragon Maid_- worth watching just for the warmth in Season 2's writing. 📕
 *  _Interviews with Monster Girls._ Teachers going out of their way to help their quirky students fit in.
 *  _Asagao to Kase-san_. Fluffy yuri romance OVA with likeable main characters.
 
+
 **I want decent series from recent seasons.**
+* _Jellyfish Can't Swim In The Night_.
+* _The Dangers In My Heart_.
+* _Sousou no Freiren_.
 * _Insomniacs After School_ - Spring 2023.
 * _Bocchi the Rock!_ - Fall 2022. Gets really creative with the animation and an overall enjoyable watch.
 * _Lycoris Recoil_ - Summer 2022. Great buddy dynamic. [_Sakana!_](https://www.youtube.com/watch?v=I5198X8XoY8)
@@ -37,7 +45,7 @@ I started my journey with Japanese animation in late high school through its mus
 
 **I'm sick of high school characters.**
 * _Ya Boy Kongming!_ - Surprisingly well written reverse isekai - with music!
-* _Bartender_ - best watched in order. ⭐
+* _Bartender_ - both the original series and the _Glass of God_ remake.⭐
 * _Girls' Last Tour._ Simple, haunting and beautiful, as is its soundtrack.⭐
 * _Shouwa Genroku Rakugo Shinjuu_ - both seasons, in order. Three (four?) generations of family drama. Some background Japanese cultural knowledge may increase enjoyment, but overall self-explanatory. ⭐📕
 
@@ -63,8 +71,6 @@ I started my journey with Japanese animation in late high school through its mus
 
 
 **Fine, maybe _some_ drama. (And music!)**
-* _Aobuta series (Rascal Does Not Dream of Bunny Girl Senpai etc)._ Nice character dynamics in a reasonably believable sci-fi. The movie is worth it, too. ⭐
-* _Hibike! Euphonium_ - because bands! Season 2 pays off in spades.
 * _Welcome to the Ballroom._ It's not _too_ bad but execution and animation in the first cour were a little wanting. 📕
 
 
@@ -98,4 +104,4 @@ Cover artists of interest include:
 * Handled website and sponsorships years back at [SUAnime](http://www.suanime.org/), Sydney Uni's anime society.
 * Transcriptions/keys for two different anime music bands/projects.
  
-```Last updated: 24 March 2023```
+
